@@ -30,9 +30,9 @@ date_format = "2006"
 title = "Talent Management Consultant"
 company = "Erie Insurance"
 company_url = ""
-location = "Erie, PA"
-date_start = "2009-01-01"
-date_end = "2020-01-01"
+location = ""
+date_start = ""
+date_end = ""
 description = ""
 
 [[experience]]
