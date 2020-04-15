@@ -1,6 +1,6 @@
 ---
 # Display name
-name: James Harvey, PhD
+name: James K Harvey, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -29,13 +29,10 @@ education:
   courses:
     - course: Doctorate in Organizational Learning and Leadership
       institution: Gannon University
-      year: 2019
     - course: MBA in International Management
       institution: University of Texas at Dallas
-      year: 2009
     - course: Bachelor of Arts in Information Management
       institution: Northwood University
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "james@jkharveyconsulting.com"
+email: "jameskharvey@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
