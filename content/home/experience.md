@@ -14,7 +14,7 @@ subtitle = ""
 
 # Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 
-date_format = "2006"
+date_format = ""
 
 # Experiences.
 
