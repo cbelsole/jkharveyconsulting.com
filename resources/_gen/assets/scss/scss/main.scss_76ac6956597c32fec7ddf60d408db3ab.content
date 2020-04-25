@@ -9121,3 +9121,17 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+ul.ul-exp li {
+  position: relative;
+  padding: 0px 15px 4px 3px; }
+
+ul.ul-exp li .description p {
+  margin: 0; }
+
+ul.ul-exp li .description p.course {
+  font-size: 0.9rem; }
+
+ul.ul-exp li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0, 0, 0, 0.6); }

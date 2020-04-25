@@ -34,6 +34,36 @@ education:
     - course: Bachelor of Arts in Information Management
       institution: Northwood University
 
+experience:
+  positions:
+    - title: "Talent Management Consultant"
+      company: "Erie Insurance"
+
+    - title: "Leadership Education Consulting"
+      company: "JKHarvey Consulting"
+
+    - title: "AVP, Performance Consulting"
+      company: "USAA"
+
+    - title: "Director, Global Leadership Development"
+      company: "EDS Electronic Data Systems"
+
+    - title: "Director, Global Consultant Development"
+      company: "AT Kearne"
+
+    - title: "Assistant Director, Technical Development"
+      company: "Electronic Data Systems"
+
+    - title: "Multiple Data Center technical and leadership roles"
+      company: "Electronic Data Systems"
+
+certifications:
+  - Board Certified Coach (BCC)
+  - Case Western Coaching Certificate (Vision-Based Coaching)
+  - AVA and, Hogan personality Assessments
+  - BluePoint Leader As Coach Facilitator
+  - PROSCI Change Management Certification
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
