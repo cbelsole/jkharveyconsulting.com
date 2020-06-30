@@ -36,11 +36,11 @@ education:
 
 experience:
   positions:
+    - title: "Leadership Assessment, Coaching, and Consulting"
+      company: "JKHarvey Consulting"
+      
     - title: "Talent Management Consultant"
       company: "Erie Insurance"
-
-    - title: "Leadership Education Consulting"
-      company: "JKHarvey Consulting"
 
     - title: "AVP, Performance Consulting"
       company: "USAA"
@@ -49,19 +49,21 @@ experience:
       company: "EDS Electronic Data Systems"
 
     - title: "Director, Global Consultant Development"
-      company: "AT Kearne"
+      company: "ATKearney"
 
     - title: "Assistant Director, Technical Development"
-      company: "Electronic Data Systems"
+      company: "Electronic Data Systems (EDS)"
 
     - title: "Multiple Data Center technical and leadership roles"
-      company: "Electronic Data Systems"
+      company: "Electronic Data Systems EDS"
 
 certifications:
   - Board Certified Coach (BCC)
   - Case Western Coaching Certificate (Vision-Based Coaching)
-  - AVA and, Hogan personality Assessments
-  - BluePoint Leader As Coach Facilitator
+  - AVA Personality Assessments
+  - Hogan Assessments Personality Assessments
+  - Korn Ferry Leadership Architect and Multi-Rater Assessments
+  - BluePoint Leadership Leader As Coach Facilitator
   - PROSCI Change Management Certification
 
 # Social/Academic Networking
