@@ -104,6 +104,17 @@
       </div>
       {{ end }}
 
+      {{ with $person.certifications }}
+      <div class="col-md-12">
+        <h3>Certifications</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      
       {{ with $person.experience }}
       <div class="col-md-12">
         <h3>Experience</h3>
@@ -115,17 +126,6 @@
               <p class="institution">{{ .company }}</p>
             </div>
           </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      {{ with $person.certifications }}
-      <div class="col-md-12">
-        <h3>Certifications</h3>
-        <ul class="ul-interests">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       </div>
